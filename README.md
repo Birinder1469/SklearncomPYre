@@ -111,7 +111,7 @@ Outputs a beautiful <a href="https://matplotlib.org">matplotlib</a> bar chart co
 
 ### Install
 
-Pleas use the following command to install the package. : <br>
+Please use the following command to install the package. : <br>
 `pip install git+https://github.com/UBC-MDS/SklearncomPYre.git`
 
 Once installed, load the package using following commands :
